@@ -156,7 +156,7 @@ books = [
         "year": 1967,
         "genre": "Realismo mágico",
         "description": "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Desde su fundación por José Arcadio Buendía y Úrsula Iguarán hasta su apocalíptico final, la novela entrelaza lo cotidiano con lo fantástico: lluvias de flores, ascensiones al cielo, plagas de insomnio e insectos. A través de personajes memorables como Aureliano Buendía, Remedios la Bella y Úrsula, García Márquez crea una metáfora de la historia latinoamericana marcada por la repetición cíclica de nombres, características y destinos.",
-        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/0b/36/0b36af29318143c946f89d5be77a158a.jpg"
+        "cover_url": "cien_anios_soledad.jpg"
     }
 ]
 
