@@ -84,7 +84,7 @@ books = [
         "year": 2015,
         "genre": "Ciencia ficción juvenil",
         "description": "En un mundo postapocalíptico, la humanidad se ha dividido en siete clanes tras una guerra devastadora. Aislados unos de otros, cada clan posee una cualidad específica. Una joven llamada Edera descubre que pertenece a un misterioso octavo clan cuya existencia se ha mantenido en secreto, y que posee el poder de unir a todos los demás en una nueva era.",
-        "cover_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c6/37/c637a11be2bd27541fc9f3a228cf165a.jpg"
+        "cover_url": "https://books.google.com.mx/books/publisher/content?id=8sEsCQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3Lg71KTAafeRbTGNDyX_dobYSgHg&w=1280"
     },
     {
         "id": 3,
@@ -93,7 +93,7 @@ books = [
         "year": 1864,
         "genre": "Aventura",
         "description": "El profesor Otto Lidenbrock descubre un manuscrito antiguo que revela un pasaje secreto hacia el centro de la Tierra a través de un volcán en Islandia. Junto a su sobrino Axel y el guía Hans, emprende una expedición subterránea donde encuentran un mundo perdido con océanos, criaturas prehistóricas y fenómenos naturales extraordinarios, desafiando todas las teorías científicas conocidas.",
-        "cover_url": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/625471e7ec0ad5845710a428_6034d7d1f3e0f55fcdb2b2eb_Viaje-al-centro-de-la-tierra-julio-verne-editorial-alma.jpeg"
+        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/94/18/941834339c4c1a8e43030ac97a1f7fe3.jpg"
     },
     {
         "id": 4,
@@ -111,7 +111,7 @@ books = [
         "year": 2015,
         "genre": "Thriller psicológico",
         "description": "Rachel Watson toma el mismo tren todos los días y pasa por la misma casa donde vive una pareja aparentemente perfecta. Un día, Rachel es testigo de algo impactante desde la ventana del tren y posteriormente se ve involucrada en un misterio de desaparición. A medida que intenta averiguar la verdad, debe enfrentar sus propios demonios, sus problemas de alcoholismo y sus recuerdos poco fiables en un retorcido juego psicológico.",
-        "cover_url": "https://imagessl.casadellibro.com/img/autores/la-chica-del-tren-paula-hawkins-portada.jpg"
+        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/d8/fe/d8fe4cc29a2b3669129763178f009bc5.jpg"
     },
     {
         "id": 6,
@@ -147,7 +147,7 @@ books = [
         "year": 1943,
         "genre": "Fábula",
         "description": "Un piloto se encuentra perdido en el desierto del Sahara después de un aterrizaje forzoso. Allí conoce a un pequeño príncipe que viene de un asteroide lejano. A través de conversaciones filosóficas y encuentros con personajes simbólicos como el zorro, la rosa y el rey, el niño comparte sus viajes y enseña importantes lecciones sobre la amistad, el amor, la soledad y la importancia de ver con el corazón. Una fábula poética que trasciende edades y explora las paradojas de la naturaleza humana.",
-        "cover_url": "https://imagessl3.casadellibro.com/a/l/t7/93/9788498381993.jpg"
+        "cover_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/4c/2d/4c2d3fc4e751c9734c7f36784193df09.jpg"
     },
     {
         "id": 10,
@@ -156,7 +156,7 @@ books = [
         "year": 1967,
         "genre": "Realismo mágico",
         "description": "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Desde su fundación por José Arcadio Buendía y Úrsula Iguarán hasta su apocalíptico final, la novela entrelaza lo cotidiano con lo fantástico: lluvias de flores, ascensiones al cielo, plagas de insomnio e insectos. A través de personajes memorables como Aureliano Buendía, Remedios la Bella y Úrsula, García Márquez crea una metáfora de la historia latinoamericana marcada por la repetición cíclica de nombres, características y destinos.",
-        "cover_url": "https://imagessl.casadellibro.com/img/autores/cien-anos-de-soledad-gabriel-garcia-marquez-portada.jpg"
+        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/0b/36/0b36af29318143c946f89d5be77a158a.jpg"
     }
 ]
 
