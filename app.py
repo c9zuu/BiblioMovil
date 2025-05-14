@@ -93,7 +93,7 @@ books = [
         "year": 1864,
         "genre": "Aventura",
         "description": "El profesor Otto Lidenbrock descubre un manuscrito antiguo que revela un pasaje secreto hacia el centro de la Tierra a través de un volcán en Islandia. Junto a su sobrino Axel y el guía Hans, emprende una expedición subterránea donde encuentran un mundo perdido con océanos, criaturas prehistóricas y fenómenos naturales extraordinarios, desafiando todas las teorías científicas conocidas.",
-        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/94/18/941834339c4c1a8e43030ac97a1f7fe3.jpg"
+        "cover_url": "https://books.google.com.mx/books/publisher/content?id=rIb6CQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0U5ONttVdnMPiVaLxnZWjjRdCkqg&w=1280"
     },
     {
         "id": 4,
