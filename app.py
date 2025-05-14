@@ -138,7 +138,7 @@ books = [
         "year": 1997,
         "genre": "Fantasía",
         "description": "Harry Potter descubre en su undécimo cumpleaños que es hijo de magos y es invitado a estudiar en el Colegio Hogwarts de Magia y Hechicería. Allí, el joven mago aprende sobre su pasado, forma amistades con Ron Weasley y Hermione Granger, y descubre que el malvado Lord Voldemort, responsable de la muerte de sus padres, busca recuperar su poder a través de la legendaria Piedra Filosofal, capaz de otorgar la inmortalidad y convertir cualquier metal en oro.",
-        "cover_url": "https://www.penguinlibros.com/es/2683661-large_default/harry-potter-y-la-piedra-filosofal-harry-potter-1.jpg"
+        "cover_url": "https://books.google.com.mx/books/content?id=2zgRDXFWkm8C&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U02KFfmXr5RojH3rB8Sgh9x8VKnZg&w=1280"
     },
     {
         "id": 9,
