@@ -147,7 +147,7 @@ books = [
         "year": 1943,
         "genre": "Fábula",
         "description": "Un piloto se encuentra perdido en el desierto del Sahara después de un aterrizaje forzoso. Allí conoce a un pequeño príncipe que viene de un asteroide lejano. A través de conversaciones filosóficas y encuentros con personajes simbólicos como el zorro, la rosa y el rey, el niño comparte sus viajes y enseña importantes lecciones sobre la amistad, el amor, la soledad y la importancia de ver con el corazón. Una fábula poética que trasciende edades y explora las paradojas de la naturaleza humana.",
-        "cover_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/4c/2d/4c2d3fc4e751c9734c7f36784193df09.jpg"
+        "cover_url": "https://books.google.com.mx/books/publisher/content?id=103IAwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2djg4yhc2ZsN3bw_MJRThHBqHeog&w=1280"
     },
     {
         "id": 10,
