@@ -111,7 +111,7 @@ books = [
         "year": 2015,
         "genre": "Thriller psicológico",
         "description": "Rachel Watson toma el mismo tren todos los días y pasa por la misma casa donde vive una pareja aparentemente perfecta. Un día, Rachel es testigo de algo impactante desde la ventana del tren y posteriormente se ve involucrada en un misterio de desaparición. A medida que intenta averiguar la verdad, debe enfrentar sus propios demonios, sus problemas de alcoholismo y sus recuerdos poco fiables en un retorcido juego psicológico.",
-        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/d8/fe/d8fe4cc29a2b3669129763178f009bc5.jpg"
+        "cover_url": "https://books.google.com.mx/books/publisher/content?id=jWBACQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2axiNlr-IWlWj0f64VWvc6AhZN3A&w=1280"
     },
     {
         "id": 6,
