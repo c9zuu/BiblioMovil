@@ -120,7 +120,7 @@ books = [
         "year": 2003,
         "genre": "Misterio",
         "description": "Cuando el conservador del Louvre, Jacques Saunière, es asesinado, Robert Langdon, profesor de simbología de Harvard, se ve envuelto en una intrincada conspiración relacionada con obras de Leonardo da Vinci y un secreto que podría cambiar la historia del cristianismo. Junto a la criptógrafa Sophie Neveu, nieta de Saunière, Langdon debe descifrar complejos códigos y símbolos para encontrar el Santo Grial mientras escapa de las autoridades y de un asesino albino al servicio de una misteriosa organización eclesiástica.",
-        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d13be637465ad0cd8cd3ffbeb0fc0.jpg"
+        "cover_url": "https://books.google.com.mx/books/publisher/content?id=iHkPDQAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1tEHnYosKgTObPLqJBwuqYfC5J1g&w=1280"
     },
     {
         "id": 7,
