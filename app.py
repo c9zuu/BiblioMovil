@@ -74,7 +74,7 @@ books = [
         "author": "George Orwell",
         "year": 1949,
         "genre": "Ficción distópica",
-        "description": "Una inquietante distopía que presenta un futuro totalitario donde el gobierno, encabezado por el omnipresente Gran Hermano, controla cada aspecto de la vida de los ciudadanos, incluyendo sus pensamientos.",
+        "description": "Una inquietante distopía que presenta un futuro totalitario donde el gobierno, encabezado por el omnipresente Gran Hermano, controla cada aspecto de la vida de los ciudadanos, incluyendo sus pensamientos. Winston Smith, un trabajador del Ministerio de la Verdad, comienza a cuestionar la realidad manipulada por el Partido y se rebela contra el sistema.",
         "cover_url": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg"
     },
     {
@@ -83,8 +83,8 @@ books = [
         "author": "Justine Evans",
         "year": 2015,
         "genre": "Ciencia ficción juvenil",
-        "description": "En un mundo postapocalíptico, la humanidad se ha dividido en clanes. Una joven descubre que pertenece a un misterioso octavo clan cuya existencia se ha mantenido en secreto.",
-        "cover_url": "https://m.media-amazon.com/images/I/81HKcvLn15L._AC_UF1000,1000_QL80_.jpg"
+        "description": "En un mundo postapocalíptico, la humanidad se ha dividido en siete clanes tras una guerra devastadora. Aislados unos de otros, cada clan posee una cualidad específica. Una joven llamada Edera descubre que pertenece a un misterioso octavo clan cuya existencia se ha mantenido en secreto, y que posee el poder de unir a todos los demás en una nueva era.",
+        "cover_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c6/37/c637a11be2bd27541fc9f3a228cf165a.jpg"
     },
     {
         "id": 3,
@@ -92,8 +92,8 @@ books = [
         "author": "Julio Verne",
         "year": 1864,
         "genre": "Aventura",
-        "description": "Un profesor de mineralogía descubre un manuscrito antiguo que revela un pasaje secreto hacia el centro de la Tierra. Junto a su sobrino y un guía, emprende una expedición llena de peligros y descubrimientos asombrosos.",
-        "cover_url": "https://imagessl2.casadellibro.com/a/l/t7/72/9788467756272.jpg"
+        "description": "El profesor Otto Lidenbrock descubre un manuscrito antiguo que revela un pasaje secreto hacia el centro de la Tierra a través de un volcán en Islandia. Junto a su sobrino Axel y el guía Hans, emprende una expedición subterránea donde encuentran un mundo perdido con océanos, criaturas prehistóricas y fenómenos naturales extraordinarios, desafiando todas las teorías científicas conocidas.",
+        "cover_url": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/625471e7ec0ad5845710a428_6034d7d1f3e0f55fcdb2b2eb_Viaje-al-centro-de-la-tierra-julio-verne-editorial-alma.jpeg"
     },
     {
         "id": 4,
@@ -101,7 +101,7 @@ books = [
         "author": "Frank Herbert",
         "year": 1965,
         "genre": "Ciencia ficción",
-        "description": "Ambientada en un futuro lejano, esta saga épica narra la batalla por el control del planeta desértico Arrakis, único lugar donde se encuentra la especia melange, sustancia que permite el viaje espacial.",
+        "description": "Ambientada en un futuro lejano, esta saga épica narra la batalla por el control del planeta desértico Arrakis, único lugar donde se encuentra la especia melange, sustancia que permite el viaje espacial y prolonga la vida. Paul Atreides, heredero de la Casa Atreides, debe navegar en un complejo universo de política intergaláctica, religión y ecología mientras descubre su propio destino como el Mesías que cambiará la galaxia.",
         "cover_url": "https://m.media-amazon.com/images/I/81ym3QUd3KL._AC_UF1000,1000_QL80_.jpg"
     },
     {
@@ -110,8 +110,8 @@ books = [
         "author": "Paula Hawkins",
         "year": 2015,
         "genre": "Thriller psicológico",
-        "description": "Rachel toma el mismo tren todos los días y pasa por la misma casa donde vive una pareja aparentemente perfecta. Un día, Rachel es testigo de algo impactante y se ve involucrada en un misterio que cambiará su vida.",
-        "cover_url": "https://m.media-amazon.com/images/I/61zzWCFCbmL._AC_UF1000,1000_QL80_.jpg"
+        "description": "Rachel Watson toma el mismo tren todos los días y pasa por la misma casa donde vive una pareja aparentemente perfecta. Un día, Rachel es testigo de algo impactante desde la ventana del tren y posteriormente se ve involucrada en un misterio de desaparición. A medida que intenta averiguar la verdad, debe enfrentar sus propios demonios, sus problemas de alcoholismo y sus recuerdos poco fiables en un retorcido juego psicológico.",
+        "cover_url": "https://imagessl.casadellibro.com/img/autores/la-chica-del-tren-paula-hawkins-portada.jpg"
     },
     {
         "id": 6,
@@ -119,8 +119,8 @@ books = [
         "author": "Dan Brown",
         "year": 2003,
         "genre": "Misterio",
-        "description": "Cuando el conservador del Louvre es asesinado, Robert Langdon, profesor de simbología, se ve envuelto en una intrincada conspiración relacionada con obras de Leonardo da Vinci y un secreto que podría cambiar la historia del cristianismo.",
-        "cover_url": "https://m.media-amazon.com/images/I/91Q5dCnPg5L._AC_UF1000,1000_QL80_.jpg"
+        "description": "Cuando el conservador del Louvre, Jacques Saunière, es asesinado, Robert Langdon, profesor de simbología de Harvard, se ve envuelto en una intrincada conspiración relacionada con obras de Leonardo da Vinci y un secreto que podría cambiar la historia del cristianismo. Junto a la criptógrafa Sophie Neveu, nieta de Saunière, Langdon debe descifrar complejos códigos y símbolos para encontrar el Santo Grial mientras escapa de las autoridades y de un asesino albino al servicio de una misteriosa organización eclesiástica.",
+        "cover_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d13be637465ad0cd8cd3ffbeb0fc0.jpg"
     },
     {
         "id": 7,
@@ -128,7 +128,7 @@ books = [
         "author": "J.R.R. Tolkien",
         "year": 1954,
         "genre": "Fantasía épica",
-        "description": "En la Tierra Media, Frodo Bolsón recibe la misión de destruir un poderoso anillo en los fuegos del Monte del Destino. Su viaje épico, junto a la Comunidad del Anillo, define el destino de su mundo frente al oscuro poder de Sauron.",
+        "description": "En la Tierra Media, Frodo Bolsón recibe la misión de destruir un poderoso anillo en los fuegos del Monte del Destino. Su viaje épico, junto a la Comunidad del Anillo, define el destino de su mundo frente al oscuro poder de Sauron. La historia sigue las aventuras de Frodo y sus compañeros a través de los reinos de elfos, enanos y hombres, mientras son perseguidos por los servidores del Señor Oscuro y deben enfrentarse a traiciones, batallas épicas y sus propios miedos internos.",
         "cover_url": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg"
     },
     {
@@ -137,8 +137,8 @@ books = [
         "author": "J.K. Rowling",
         "year": 1997,
         "genre": "Fantasía",
-        "description": "Harry Potter descubre en su undécimo cumpleaños que es hijo de magos y es invitado a estudiar en el Colegio Hogwarts de Magia y Hechicería, donde se enfrenta por primera vez a su nemesis, Lord Voldemort.",
-        "cover_url": "https://m.media-amazon.com/images/I/81RfuxQbDOL._AC_UF1000,1000_QL80_.jpg"
+        "description": "Harry Potter descubre en su undécimo cumpleaños que es hijo de magos y es invitado a estudiar en el Colegio Hogwarts de Magia y Hechicería. Allí, el joven mago aprende sobre su pasado, forma amistades con Ron Weasley y Hermione Granger, y descubre que el malvado Lord Voldemort, responsable de la muerte de sus padres, busca recuperar su poder a través de la legendaria Piedra Filosofal, capaz de otorgar la inmortalidad y convertir cualquier metal en oro.",
+        "cover_url": "https://www.penguinlibros.com/es/2683661-large_default/harry-potter-y-la-piedra-filosofal-harry-potter-1.jpg"
     },
     {
         "id": 9,
@@ -146,8 +146,8 @@ books = [
         "author": "Antoine de Saint-Exupéry",
         "year": 1943,
         "genre": "Fábula",
-        "description": "Un piloto se encuentra perdido en el desierto del Sahara, donde conoce a un pequeño príncipe que viene de un asteroide lejano. A través de conversaciones filosóficas, el niño le enseña importantes lecciones sobre la vida.",
-        "cover_url": "https://m.media-amazon.com/images/I/71lLj2XN0YL._AC_UF1000,1000_QL80_.jpg"
+        "description": "Un piloto se encuentra perdido en el desierto del Sahara después de un aterrizaje forzoso. Allí conoce a un pequeño príncipe que viene de un asteroide lejano. A través de conversaciones filosóficas y encuentros con personajes simbólicos como el zorro, la rosa y el rey, el niño comparte sus viajes y enseña importantes lecciones sobre la amistad, el amor, la soledad y la importancia de ver con el corazón. Una fábula poética que trasciende edades y explora las paradojas de la naturaleza humana.",
+        "cover_url": "https://imagessl3.casadellibro.com/a/l/t7/93/9788498381993.jpg"
     },
     {
         "id": 10,
@@ -155,8 +155,8 @@ books = [
         "author": "Gabriel García Márquez",
         "year": 1967,
         "genre": "Realismo mágico",
-        "description": "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo, mezclando elementos reales con fantásticos en un retrato de la sociedad latinoamericana.",
-        "cover_url": "https://m.media-amazon.com/images/I/71KN4YvL8rL._AC_UF1000,1000_QL80_.jpg"
+        "description": "Esta obra maestra narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Desde su fundación por José Arcadio Buendía y Úrsula Iguarán hasta su apocalíptico final, la novela entrelaza lo cotidiano con lo fantástico: lluvias de flores, ascensiones al cielo, plagas de insomnio e insectos. A través de personajes memorables como Aureliano Buendía, Remedios la Bella y Úrsula, García Márquez crea una metáfora de la historia latinoamericana marcada por la repetición cíclica de nombres, características y destinos.",
+        "cover_url": "https://imagessl.casadellibro.com/img/autores/cien-anos-de-soledad-gabriel-garcia-marquez-portada.jpg"
     }
 ]
 
